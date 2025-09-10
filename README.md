@@ -160,13 +160,13 @@ Platform booking tiket event dengan sistem pembayaran sederhana dan manajemen ka
 - Database schema design
 - Query optimization
 - Transaction handling
-- Error handling & logging
+- Error handling & logging 
 
 ### **Testing & Documentation (10%)**
 - Postman collection completeness
 - API documentation
-- Docker setup
+- Docker setup (Opsional)
 - Git workflow
 
-**Durasi Assessment:** 4-6 jam per studi kasus
+**Durasi Assessment:** 3-6 jam per studi kasus
 **Deliverables:** Source code, Postman collection, Docker setup, README documentation
